@@ -1,0 +1,15 @@
+{
+  "name": "wechaty-tf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "wechaty": "^0.8.91"
+  }
+}
